@@ -1,0 +1,4 @@
+module GroupsIncNativeDialog
+plugin declarative_nativedialog
+typeinfo plugins.qmltypes
+classname GNativeDialogModule
